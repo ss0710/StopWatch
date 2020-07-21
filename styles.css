@@ -1,0 +1,38 @@
+
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 1%;
+	text-align: center;
+}
+
+#display{
+	padding: 5%;
+	font-size: 6rem;
+}
+
+.buttons{
+	padding:4%;
+}
+
+.image{
+	text-align: center;
+	margin-top: 2%;
+}
+
+.img{
+	height: 300px;
+	width: 300px;
+}
+
+@media (max-width: 1028px){
+
+   .container{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+	text-align: center;
+}
+
+
+}
